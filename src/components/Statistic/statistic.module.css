@@ -1,0 +1,13 @@
+.statisticItem {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: gray;
+}
+
+.statisticNum {
+  color: black;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 5px;
+}
